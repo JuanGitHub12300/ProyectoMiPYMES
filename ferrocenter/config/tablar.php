@@ -151,6 +151,12 @@ return [
         ],
 
         [
+            'text' => 'Clientes',
+            'icon' => 'ti ti-home',
+            'url' => '/clientes'
+        ],
+
+        [
             'text' => 'Support 1',
             'url' => '#',
             'icon' => 'ti ti-help',
